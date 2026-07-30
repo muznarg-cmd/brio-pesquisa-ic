@@ -1,10 +1,12 @@
-# BRIO — Pesquisa de Iniciação Científica 🔬📚
+# OCMT e BRIO — Pesquisa de Iniciação Científica 🔬📚
 
-Pesquisa de iniciação científica relacionada ao desenvolvimento do **BRIO**, uma ferramenta educacional criada para apoiar o planejamento, a organização e o acompanhamento da prática docente.
+Pesquisa de iniciação científica dedicada ao desenvolvimento da **Gestão Cognitiva Otimizada com Tecnologias (OCMT)** e à sua aplicação por meio do aplicativo educacional **BRIO**.
 
-## Sobre a pesquisa
+## Sobre o projeto
 
-O projeto investiga como recursos digitais podem contribuir para a organização do trabalho pedagógico e para a criação de ferramentas mais acessíveis às necessidades reais de professores e estudantes de licenciatura.
+A **OCMT** é uma metodologia desenvolvida para auxiliar estudantes na organização, externalização, verificação e revisão consciente do próprio pensamento.
+
+O **BRIO** é o aplicativo educacional criado para aplicar os princípios da OCMT em um ambiente digital, oferecendo recursos de organização do conhecimento, revisão argumentativa, verificação procedimental e desenvolvimento da autonomia intelectual.
 
 A pesquisa também fundamenta o desenvolvimento do BRIO, unindo educação, tecnologia, experiência do usuário e formação docente.
 
