@@ -34,8 +34,6 @@ O projeto foi apresentado em um congresso educacional, compartilhando sua propos
 
 Os materiais relacionados à apresentação serão organizados neste repositório.
 
-## Materiais do repositório
-
 ## Materiais disponíveis
 
 📄 [Ler o documento da metodologia OCMT](ocmt-gestao-cognitiva-otimizada-com-tecnologias.pdf)
