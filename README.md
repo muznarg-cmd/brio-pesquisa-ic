@@ -1,2 +1,57 @@
-# brio-pesquisa-ic
-Pesquisa de iniciação científica relacionada ao desenvolvimento do BRIO, apresentada em congresso educacional.
+# BRIO — Pesquisa de Iniciação Científica 🔬📚
+
+Pesquisa de iniciação científica relacionada ao desenvolvimento do **BRIO**, uma ferramenta educacional criada para apoiar o planejamento, a organização e o acompanhamento da prática docente.
+
+## Sobre a pesquisa
+
+O projeto investiga como recursos digitais podem contribuir para a organização do trabalho pedagógico e para a criação de ferramentas mais acessíveis às necessidades reais de professores e estudantes de licenciatura.
+
+A pesquisa também fundamenta o desenvolvimento do BRIO, unindo educação, tecnologia, experiência do usuário e formação docente.
+
+## Objetivo geral
+
+Investigar possibilidades de uso da tecnologia no apoio à organização, ao planejamento e à reflexão sobre a prática pedagógica.
+
+## Relação com o aplicativo BRIO
+
+A pesquisa fornece a fundamentação educacional e teórica para o desenvolvimento do aplicativo.
+
+O BRIO busca transformar conceitos estudados durante a iniciação científica em recursos práticos, como:
+
+- planejamento de aulas;
+- organização de turmas;
+- registros e reflexões docentes;
+- acompanhamento pedagógico;
+- recursos de acessibilidade;
+- apoio à criação de atividades;
+- ferramentas de estudo e produtividade.
+
+## Apresentação acadêmica
+
+O projeto foi apresentado em um congresso educacional, compartilhando sua proposta, sua fundamentação e as possibilidades de desenvolvimento da ferramenta.
+
+Os materiais relacionados à apresentação serão organizados neste repositório.
+
+## Materiais do repositório
+
+Em breve, este espaço poderá reunir:
+
+- resumo da pesquisa;
+- artigo acadêmico;
+- apresentação utilizada no congresso;
+- imagens e registros do projeto;
+- documentos metodológicos;
+- resultados e reflexões;
+- materiais complementares.
+
+## Projeto relacionado
+
+💻 [BRIO — Aplicação Educacional](https://github.com/Muznarg-CMD/brio-app-educacional)
+
+## Status
+
+🚧 Pesquisa e documentação em processo de organização para portfólio acadêmico.
+
+## Autora
+
+Projeto desenvolvido por **Camila Espíndola**, estudante de Licenciatura em Linguagens e desenvolvedora em formação.
