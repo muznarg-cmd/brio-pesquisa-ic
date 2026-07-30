@@ -36,6 +36,12 @@ Os materiais relacionados à apresentação serão organizados neste repositóri
 
 ## Materiais do repositório
 
+## Materiais disponíveis
+
+📄 [Ler o documento da metodologia OCMT](ocmt-gestao-cognitiva-otimizada-com-tecnologias.pdf)
+
+📊 [Ver a apresentação da OCMT e do BRIO](apresentacao-ocmt-brio-congresso.pptx)
+
 Em breve, este espaço poderá reunir:
 
 - resumo da pesquisa;
